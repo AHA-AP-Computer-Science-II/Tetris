@@ -2,7 +2,6 @@
 Tetris game
 
 **Contributors:** 
-
 * Caleb Reiter
 * Eric Miller
 * Matt Farstad
